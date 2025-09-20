@@ -42,7 +42,7 @@ npm install
 ```
 3. Configure environment variables (.env) in backend
 ```bash
-MONGODB_URI=your_mongodb_connection_string
+MONGODB_URL=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
 
